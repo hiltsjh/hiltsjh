@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm interested in ML models - building prediction models for sporting event outcomes.
+
+I'm currently learning web development.
+
 <!--
 **hiltsjh/hiltsjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
